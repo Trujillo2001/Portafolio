@@ -1,0 +1,29 @@
+.menu__lista{
+    display: flex;
+    position:fixed;
+    justify-content: space-around;
+    width: 100%;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    text-decoration: none;
+    box-shadow: 10px 5px 5px black; 
+    background-image: url(../img/banner2.jpg);
+    background-size: cover;
+}
+
+ /*background-image: url(../img/banner2.jpg);
+height: 100px;*/
+
+@media (max-width:700px){
+    .menu__lista{
+        display: flex;
+        flex-direction: column;
+        background-image: none;
+        position: relative;
+       
+        box-shadow: none;
+
+    }
+}
+
+ 

@@ -1,0 +1,38 @@
+.menu__lista__index{
+    display: flex;
+    font-family: 'Agdasima', sans-serif;
+    font-size:50px;
+    font-style: normal;
+    font-weight: 800;
+    text-shadow: 6px 6px 6px black
+}
+ 
+
+@media (max-width:700px){
+    .menu__lista__index{
+    display: flex;
+    justify-content: center;
+    font-family: 'Amatic SC', cursive;
+    font-size:50px;
+    font-style: normal;
+    padding-bottom: 0.35rem;
+    padding-top:0.35rem ;
+    font-weight: 800;
+    text-shadow: 6px 6px 6px black
+    }
+}
+
+@media(min-width:750px){
+    .menu__lista__index{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        font-family: 'Amatic SC', cursive;
+        font-size:50px;
+        font-style: normal;
+        padding-bottom: 0.35rem;
+        padding-top:0.5rem ;
+        font-weight: 800;
+        text-shadow: 6px 6px 6px black
+    }
+}

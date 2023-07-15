@@ -1,0 +1,11 @@
+.sobreMi__Main{
+    background-color: #90e0ef;
+}
+
+@media (max-width:750px){
+.sobreMi__Main{
+      width: 100%;
+      overflow-x: hidden;
+                    }
+                }
+                

@@ -1,0 +1,23 @@
+.hobbies__titulo{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Amatic SC', cursive;
+    font-size:275px;
+    font-style: normal;
+    font-weight: 800;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+
+}
+
+@media (max-width:750px){
+.hobbies__titulo{
+         font-size: 100px;
+         margin-top: 1px;
+         margin-bottom: 1px;
+               }
+               }
+
+ 

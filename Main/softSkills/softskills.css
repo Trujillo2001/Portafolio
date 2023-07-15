@@ -1,0 +1,14 @@
+.softSkills{
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+}
+
+
+@media (max-width:750px){
+ .softSkills{
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+        width: 100%;
+            
+           }
+           }

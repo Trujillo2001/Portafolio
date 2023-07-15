@@ -1,0 +1,24 @@
+.perfil{
+    justify-content: center;
+    align-items: center;
+    border-radius:390px;
+    width: 400px;
+    height: 400px;
+    margin-top: 2rem;
+    margin-bottom:  5rem ;
+   
+  
+}
+
+
+@media (max-width:750px){
+     .perfil{
+    justify-content:center;
+    width: 220px;
+    height: 220px;
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+    border-radius: 190px;
+}
+
+}

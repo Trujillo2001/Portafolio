@@ -1,0 +1,17 @@
+.hobbies_texto{
+    font-family: 'Agdasima', sans-serif;
+    padding-top: 3rem;
+    margin-right: 3rem;
+    padding-bottom: 10rem;
+    font-weight: 800;
+    font-size: 40px;
+    margin-left: 2rem;
+}
+
+
+@media (max-width:750px){
+.hobbies_texto{
+      margin-right: 1px;
+                 }
+
+                 }

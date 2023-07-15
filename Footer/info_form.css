@@ -1,0 +1,21 @@
+.info-form{
+  animation: movimiento 2.5s linear infinite;
+}
+
+.info-form img{
+  width: 600px;
+  display: block;
+}
+
+@media (max-width:750px){
+.info-form img{ 
+  width: 240px;
+  height: 310px;
+       
+      }
+  
+  }
+  
+  
+
+ 

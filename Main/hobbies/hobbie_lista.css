@@ -1,0 +1,10 @@
+.hobbies__lista{
+    padding-left: 3rem;
+}
+
+@media (max-width:750px){
+  .hobbies__lista{
+        padding-left: 1px;
+            
+           }
+           }

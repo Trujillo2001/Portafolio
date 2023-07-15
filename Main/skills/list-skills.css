@@ -1,0 +1,20 @@
+.list__skills{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+
+@media (max-width:750px){
+.list__skills{
+      display: flex;
+      flex-direction: column;
+      justify-content:space-between;
+      align-items: center;
+      text-align: center;
+     
+    }
+}
+

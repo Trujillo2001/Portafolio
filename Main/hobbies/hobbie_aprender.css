@@ -1,0 +1,13 @@
+.hobbie__aprender{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    margin-left: 2.5rem;
+     
+}
+
+@media (max-width:750px){
+.hobbie__aprender{
+ margin-left: 4rem;
+                 }
+                 }

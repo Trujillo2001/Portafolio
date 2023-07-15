@@ -1,0 +1,16 @@
+.sobreMi__texto{
+    padding-top: 3rem;
+    
+    font-weight: 800;
+    font-size: 30px;
+}
+
+
+@media (max-width:750px){
+    .sobreMi__texto{
+     font-weight: 600;
+     margin-left: 1rem;
+     margin-right: 1rem;
+     font-size: 20px;    }
+}
+

@@ -1,0 +1,23 @@
+.academicCurses__menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-top: 5rem;
+    padding-left: 3rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+
+@media (max-width:750px){
+     .academicCurses__menu{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+         
+        }
+    }
+    
+    

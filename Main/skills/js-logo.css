@@ -1,0 +1,16 @@
+.skills__js{
+    display: flex;
+    width: 200px;
+    height: 200px;
+    box-shadow: 1px 1px 1px 1px rgba(32,32,32,0.3)    
+
+}
+
+@media (max-width:750px){
+.skills__js{
+                 margin-bottom: 2rem;
+                 margin-top:2rem;
+                }
+            }
+            
+            

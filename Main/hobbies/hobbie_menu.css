@@ -1,0 +1,26 @@
+.hobbies__menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin-top: 8rem;
+    padding-left: 3rem;
+    margin-left: 6rem;
+     
+}
+
+
+@media (max-width:750px){
+    .hobbies__menu{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding-left: 1px;
+      margin-left: 1px;
+      
+    }
+}
+
+

@@ -1,0 +1,15 @@
+.projects{
+    background-color: #90e0ef;
+}
+
+@media (max-width:750px){
+  html,body{
+    overflow-x: hidden;
+    color:black;
+    font-family:'Opens Sans',helvetica;  
+    height:100%;
+    width:101%;
+    margin: 0px;
+    padding: 0px;
+               }
+               }

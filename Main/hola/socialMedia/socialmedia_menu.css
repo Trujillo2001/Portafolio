@@ -1,0 +1,21 @@
+.socialMedia__menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-left:50rem ;
+    padding-bottom: 15rem;
+
+    
+}
+
+
+@media (max-width:750px){
+    .socialMedia__menu{
+        justify-content: center;
+        align-items: center;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-bottom: 1rem;
+    }
+}
+

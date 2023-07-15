@@ -1,0 +1,25 @@
+.skills__titulo{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Amatic SC', cursive;
+    font-size:140px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+
+@media (max-width:750px){
+ .skills__titulo{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-size: 70px;  
+      margin-top: 2rem;
+      margin-bottom: 1px;
+      margin-right: 1px;
+    }
+}
+

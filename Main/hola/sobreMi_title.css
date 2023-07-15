@@ -1,0 +1,27 @@
+.sobreMi__title{
+   
+    font-family: 'Amatic SC', cursive;
+    font-size:150px;
+    font-style: normal;
+    font-weight:800;
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+    margin-right:40%;
+
+}
+
+@media (max-width:750px){
+    .sobreMi__title{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-size: 50px;  
+      margin-top: 2rem;
+      margin-bottom: 5rem;
+      margin-right: 2rem;
+    }
+}
+
+
+ 

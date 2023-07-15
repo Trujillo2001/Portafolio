@@ -1,0 +1,12 @@
+.academicCurses{
+    margin-top: 10rem;
+    margin-bottom: 15rem;
+}
+
+
+@media (max-width:750px){
+ .academicCurses{
+          margin-top: 2.5rem;
+          margin-bottom: 2.5rem;
+           }
+           }

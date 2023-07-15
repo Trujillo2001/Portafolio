@@ -1,0 +1,15 @@
+.skills__html{
+    display: flex;
+    width: 225px;
+    height: 250px;
+
+}
+ 
+@media (max-width:750px){
+.skills__html{
+             margin-bottom: 2rem;
+             margin-top:1px;
+            }
+        }
+        
+        

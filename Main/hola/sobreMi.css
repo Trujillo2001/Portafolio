@@ -1,0 +1,20 @@
+.sobreMi{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center ;
+    font-family: 'Amatic SC', cursive;
+    font-size: large;
+    font-style: normal;
+    font-weight: 500;
+    background:#00b4d8;
+    height: auto;
+    width: 100%;
+}
+
+
+@media (max-width:750px){
+     .sobreMi{
+       width: 100%;
+           }
+           }

@@ -1,0 +1,25 @@
+.allSkills{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Amatic SC', cursive;
+    font-size:275px;
+    font-style: normal;
+    font-weight:800;
+}
+
+
+@media (max-width:750px){
+     .allSkills{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-size: 100px;  
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      margin-right: 2rem;
+    }
+}
+

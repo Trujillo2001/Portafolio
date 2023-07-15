@@ -1,0 +1,13 @@
+.hobbies{
+     margin-top: 10rem;
+     margin-bottom: 15rem;
+}
+
+
+@media (max-width:750px){
+ .hobbies{
+        margin-top: 2px;
+        margin-bottom: 2px;
+             
+            }
+            }

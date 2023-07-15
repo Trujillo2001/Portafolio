@@ -1,0 +1,28 @@
+.softSkill__title{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Amatic SC', cursive;
+    font-size:140px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+
+}
+
+
+@media (max-width:750px){
+    .softSkill__title{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-size: 70px;  
+      margin-top: 5rem;
+      margin-bottom: 5rem;
+      margin-right: 2rem;
+    }
+}
+
